@@ -1,1 +1,3 @@
 bower_components
+.gitignore
+.DS_Store
